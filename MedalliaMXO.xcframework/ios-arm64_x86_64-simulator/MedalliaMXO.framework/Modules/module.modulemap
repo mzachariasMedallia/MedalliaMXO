@@ -1,0 +1,11 @@
+framework module MedalliaMXO {
+  umbrella header "MedalliaMXO.h"
+  export *
+
+  module * { export * }
+}
+
+module MedalliaMXO.Swift {
+  header "MedalliaMXO-Swift.h"
+  requires objc
+}

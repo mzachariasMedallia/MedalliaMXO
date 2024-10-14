@@ -1,0 +1,15 @@
+{
+  "originHash" : "06459f741fdcbe933e592e31c01172fb61382f82360ef577ced27b38633a4073",
+  "pins" : [
+    {
+      "identity" : "bridgesdk",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/mzachariasMedallia/BridgeSDK.git",
+      "state" : {
+        "revision" : "fef19603787e126fdd83de1a57f31fb283d9711c",
+        "version" : "1.0.0"
+      }
+    }
+  ],
+  "version" : 3
+}
