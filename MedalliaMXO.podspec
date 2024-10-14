@@ -21,5 +21,5 @@ Pod::Spec.new do |s|
   s.platform            = :ios, "12.0"
   s.preserve_paths      = 'MedalliaMXO.xcframework'
   s.vendored_frameworks = 'MedalliaMXO.xcframework'
-  s.dependency 'BridgeSDK'
+  s.dependency 'BridgeSDK', '~> 1.0.0'
 end
